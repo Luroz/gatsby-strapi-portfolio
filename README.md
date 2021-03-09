@@ -1,4 +1,4 @@
-# COMPLETE PROJECT SETUP
+# PROJECT SETUP
 
 In order to use complete project you will need:
 
@@ -22,7 +22,7 @@ const Component = () => {
 ```
 
 5. Use constants to avoid repetition.
-6. In order to follow along with the video use my backend (url below)
+6. follow along with the video use my backend (url below)
 
    [strapi backend]:https://github.com/john-smilga/strapi-gatsby-porfolio-2020-api
 
