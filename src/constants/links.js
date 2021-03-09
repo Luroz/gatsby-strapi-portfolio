@@ -1,5 +1,6 @@
 import React from "react"
 import { Link } from "gatsby"
+
 const data = [
   {
     id: 1,
@@ -35,7 +36,6 @@ const tempLinks = data.map(link => {
     </li>
   )
 })
-// I KNOW WE CAN COMBINE IT !!!!!
 
 export default ({ styleClass }) => {
   return (
