@@ -24,7 +24,7 @@ export const query = graphql`
     allStrapiBlogs {
       nodes {
         slug
-        desc
+        description
         date(formatString: "MMMM Do, YYYY")
         id
         title

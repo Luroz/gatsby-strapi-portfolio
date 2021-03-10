@@ -50,7 +50,7 @@ export const query = graphql`
       nodes {
         slug
         content
-        desc
+        description
         date(formatString: "MMMM Do, YYYY")
         id
         title
