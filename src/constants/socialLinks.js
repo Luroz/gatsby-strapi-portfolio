@@ -10,7 +10,7 @@ const data = [
   {
     id: 1,
     icon: <FaFacebookSquare className="social-icon"></FaFacebookSquare>,
-    url: "https://www.facebook.com",
+    url: "https://www.linkedin.com/in/luis-romario-pirela/",
   },
   {
     id: 2,
