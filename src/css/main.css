@@ -465,7 +465,6 @@ Hero
     display: block;
     grid-row: 1/1;
     grid-column: 6/-1;
-    height: 75% !important ; 
   }
 }
 @media screen and (min-width: 1170px) {
