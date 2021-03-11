@@ -5,7 +5,7 @@ export default [
     id: 1,
     icon: <FaCode className="service-icon" />,
     title: "web development",
-    text: `Building and maintenaning your websites; Working behind the scenes to make your website look great, work fast and perform well with a seamless user experience.`,
+    text: `Building and maintaining your websites; Working behind the scenes to make your website look great, work fast and perform well with a seamless user experience.`,
   },
   {
     id: 2,
